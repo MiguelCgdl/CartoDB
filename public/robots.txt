@@ -1,0 +1,12 @@
+# Contact us at support@carto.com if you are having problems
+# while trying to access our API or whatever
+
+User-agent: Googlebot
+User-Agent: Slurp
+User-agent: Yandex
+User-Agent: msnbot
+User-agent: baiduspider
+Disallow: /api/
+
+User-agent: Googlebot
+Allow: /api/v4/data/observatory
